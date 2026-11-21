@@ -1,0 +1,23 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# node / expo
+node_modules/
+.expo/
+dist/
+web-build/
+*.apk
+*.aab
+
+# raw research data must never be committed
+research/**/raw/
+*.m4a
+*.wav
+*.ogg
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
