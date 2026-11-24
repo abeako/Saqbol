@@ -3,13 +3,13 @@
 Статьи для изучения. Каждую разбираем **вместе с Сулейманом**: Claude не читает и не конспектирует статью заранее.
 
 Статусы: `не прочитано` → `разбираем` → `прочитано` → `подходит` / `не подходит`.
-Заметки по каждой статье лежат в `docs/research/notes/`.
+Разбор каждой статьи лежит в своей папке `docs/research/papers/NN-автор-год/` (как работаем: `docs/research/README.md`).
 
 ## ⭐ Главные (ядро идеи Saqbol)
 
 | # | Статья | Зачем она нам | Статус |
 |---|--------|---------------|--------|
-| 1 | Inoculation theory против imposter scams, RCT (Robb & Wendel) — [PMC9786522](https://pmc.ncbi.nlm.nih.gov/articles/PMC9786522) | Научное обоснование «тренировки на фейках» | подходит → [заметки](notes/01-robb-wendel-inoculation.md) |
+| 1 | Inoculation theory против imposter scams, RCT (Robb & Wendel) — [PMC9786522](https://pmc.ncbi.nlm.nih.gov/articles/PMC9786522) | Научное обоснование «тренировки на фейках» | подходит (B) → [разбор](papers/01-robb-wendel-2023/) |
 | 2 | Training Users to Recognize Persuasion Techniques in Vishing Calls (CHI 2023) — [PDF](https://web.lums.edu.pk/~mobin/publications/2023/vishing-CHI23.pdf) | Ближайший аналог: обучение именно против звонков | не прочитано |
 | 3 | How social engineers use persuasion principles during vishing attacks (Jones et al., 2020) — [PDF](https://par.nsf.gov/servlets/purl/10281805) | Какие приёмы мошенники используют в звонках → основа сценариев | не прочитано |
 | 1b | What does trust have to do with it? Training consumers to detect digital imposter scams (DeLiema, Robb & Wendel, 2024) — [EconPapers](https://econpapers.repec.org/RePEc:eme:jfcpps:jfc-12-2023-0314) | Продолжение статьи №1: тренировка и доверие | не прочитано |
